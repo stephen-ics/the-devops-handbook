@@ -61,3 +61,8 @@
 - Goal: Create a high-trust environment that encourages innovation, learning, and systemic improvements across the organization.
 - Practices: Build systems that encourage knowledge sharing, enable experimentation, and support a disciplined approach to risk-taking.
 - Outcome: A learning organization that adapts quickly, making discoveries that lead to long-term, widespread improvements across the organization.
+
+## Concepts Covered
+- Value streams (for both manufacturing and tech)
+- Lead times
+- High-level concepts behind each of the Three Ways
