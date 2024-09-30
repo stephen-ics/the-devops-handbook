@@ -44,3 +44,20 @@
 - In additiona to lead times and process times, the third key metirc in the tech value stream is percent complete and accurate hence (*%C/A*)
 - This metric reflects the quality of the output of each step in our value stream
 - This can be obtained by asking downstream customers what percentage of time they receive work that is "usable as is"
+
+## The Three Ways: The Principle of Underpinning Devops
+1. The First Way: Flow (Left to Right)
+- Focus: Streamline the flow of work from Development to Operations, eventually reaching the customer.
+- Goal: Reduce lead times for deploying code into production, improve throughput, and increase the overall quality of work.
+- Practices: Continuous integration, continuous delivery (CI/CD), creating environments on demand, limiting work in progress (WIP), and building systems that are safe to change.
+- Outcome: Faster delivery of features or products, allowing the organization to outpace competitors.
+2. The Second Way: Feedback (Right to Left)
+- Focus: Enable quick and constant feedback at every stage of the value stream, from Operations back to Development.
+- Goal: Identify and fix problems early, before they escalate into larger issues. Amplifying feedback helps improve quality and prevent recurring problems.
+- Practices: Detect and address issues as soon as they arise, create feedback loops that allow for quick identification and resolution of defects, and embed knowledge in the process.
+- Outcome: Continuous improvement and learning, along with higher-quality systems that catch and fix problems early.
+3. The Third Way: Continuous Learning and Experimentation
+- Focus: Foster a culture of experimentation, risk-taking, and learning from both successes and failures.
+- Goal: Create a high-trust environment that encourages innovation, learning, and systemic improvements across the organization.
+- Practices: Build systems that encourage knowledge sharing, enable experimentation, and support a disciplined approach to risk-taking.
+- Outcome: A learning organization that adapts quickly, making discoveries that lead to long-term, widespread improvements across the organization.
